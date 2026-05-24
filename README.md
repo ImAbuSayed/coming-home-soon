@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/coming-home-soon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Coming Home Soon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coming-home-soon/) |
+| **Get License** | [Commercial Licensing for Coming Home Soon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coming-home-soon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `df76a6dbabd626c70ee2a2d88cd0a89c57c06f2c020309e21d16b38c8bf41b74` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

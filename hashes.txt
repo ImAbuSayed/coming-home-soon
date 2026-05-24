@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Coming Home Soon
+
+This log tracks the cryptographic history and versioning for the song **Coming Home Soon** (coming-home-soon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:27:12.983273 | `v1` | `df76a6dbabd626c70ee2a2d88cd0a89c57c06f2c020309e21d16b38c8bf41b74` | `6e17985a2e00ac06cfbe409a2d0589da841545a89b8dbd8a9351588bb5da3729` | `2026-05-25_coming-home-soon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
