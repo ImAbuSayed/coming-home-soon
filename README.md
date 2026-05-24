@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/coming-home-soon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Coming Home Soon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coming-home-soon/) |
+| **Get License** | [Request Licensing for Coming Home Soon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coming-home-soon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows are dancing across the dashboard light
+> I can already feel your skin so warm tonight
+> The engine is humming a slow-burn tune
+> Baby, leave the door unlocked, I'm coming home soon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
